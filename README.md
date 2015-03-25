@@ -23,3 +23,8 @@ Development Kit
 - PS/2 moude/keyboard
 - Power DC +5V 500 mA
 - PCB Size 75 х 75 mm
+
+![image](u9_board/manuals/u9_brd_top.png) ![image](u9_board/manuals/u9_brd_bot.png)
+
+
+![image](u9_board/images/u9_bot02.JPG) ![image](u9_board/images/u9_top02.JPG) 
