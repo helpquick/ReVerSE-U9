@@ -27,4 +27,4 @@ Development Kit
 ![image](u9_board/manuals/u9_brd_top.png) ![image](u9_board/manuals/u9_brd_bot.png)
 
 
-![image](u9_board/images/u9_top02.JPG) ![image](u9_board/images/u9_bot02.JPG) 
+![image](u9_board/images/u9_top02.jpg) ![image](u9_board/images/u9_bot02.jpg) 
