@@ -1,4 +1,6 @@
-//Modified for ReVerSE-U9 By MVV (build 20160103)
+//Modified for ReVerSE-U9 By MVV (build 20160114)
+// 20160103	ReVerSE-U9 Port
+// 20160114	BIOS-SD Corrected By ivagor
 
 //Ivan Gorodetsky 2014-2015
 //SD Card "hard" and soft - Dmitry Tselikov (b2m) http://bashkiria-2m.narod.ru/
